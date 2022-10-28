@@ -16,35 +16,31 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // Tipos de dato en Java
-        
+
         // Tipo de datos Entero
-        
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
         int valor_inicial = 18;
         // int valor inicial = 18;
         int valor_inicial_2 = 18;
-        
+
         // Tipo de datos Double - Decimal
-        
         double variable3;
         double variable4 = 10.2;
-        
+
         // Tipo de datos String  - Cadena
-        
         String variable5;
         String variable6 = "Hola mundo";
-        
-        // Tipo de datos char  - un caractér
 
+        // Tipo de datos char  - un caractér
         char variable7;
         char variable8 = 'a';
-        
+
         // tipo de dato boolean - boleano
-        
         boolean variable9 = false;
         boolean variable10 = true;
+        
     }
-    
+
 }
